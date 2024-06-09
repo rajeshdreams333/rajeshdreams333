@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajesh...🚀</h1>
-<h3 align="center">A passionate SDE from India</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshdreams333&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshdreams333" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Data Enginner**
 
-- 🌱 I’m currently learning **Expressjs**
+- 🌱 I’m currently learning **Hadoop, Hive, PySpark**
 
-- 🤝 I’m looking for help with **node.js, Express**
+- 🤝 I’m looking for help with **Kafka, Azure**
 
 - 💬 Ask me about **React, js, python**
 
